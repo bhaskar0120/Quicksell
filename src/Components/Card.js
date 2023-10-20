@@ -5,7 +5,7 @@ export default function ({ id, title }){
         <div className="card">
             <div className="flex-container">
                 <div className="id">{id}</div>
-                <div className="photo"><img src="https://i.pravatar.cc/30"></img> </div>
+                <div className="photo"><img src="pexels-photo-2380794.jpeg"></img> </div>
             </div>
             <div className="title"> {title}</div>
             <div className="flex-container-together">
