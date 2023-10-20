@@ -1,0 +1,52 @@
+div{
+  font-size: small;
+}
+.card{
+  width :  15vw;
+  background-color : #fff;
+  border-radius : 10px;
+  box-shadow: #9a9a9a 0px 0px 10px 0px;
+  padding: 1vw;
+  margin-left: auto;
+  margin-right:auto
+}
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+.id {
+  height: 20px;
+  width: auto;
+  color:#555
+}
+
+.photo img{
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: purple;
+}
+
+
+.title{
+  font-weight: 600;
+  width: 80%;
+  color:#555;
+  margin-top: -10px;
+}
+.flex-container-together{
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+
+}
+.border{
+  color : #555;
+  border : gray 1px solid;
+  border-radius: 5px;
+  margin-right: 10px;
+  padding: 2px;
+  font-size:x-small;
+}

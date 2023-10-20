@@ -1,0 +1,10 @@
+.dropdown{
+    background-color: #f6f6f6;
+    width: fit-content;
+    font-size: small;
+    padding: 10px 20px;
+    margin :0 20px;
+    border: 1px solid #e6e6e6;
+    border-radius: 10px;
+
+}
